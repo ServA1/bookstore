@@ -19,5 +19,11 @@
   "dependencies": {
     "express": "^4.16.2",
     "webpack": "^3.7.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "nodemon": "^1.12.1"
   }
 }
